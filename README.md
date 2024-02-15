@@ -1,2 +1,3 @@
 # teszt2
-First repository
+My first repository on github
+My name is ZOLITIK
